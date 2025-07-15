@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61F7EF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Pin-Yen!;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61F7EF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Shao-Ren!;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Snake animation](https://github.com/2226gjg/2226gjg/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://github.com/2226gjg/2226gjg/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/2226gjg/2226gjg/output/github-contribution-grid-snake.svg))
